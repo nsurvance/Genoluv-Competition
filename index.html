@@ -27,8 +27,8 @@
 
         #wrapper {
             width: 100%;
-            max-width: 700px;
-            padding: 40px;
+            max-width: 600px;
+            padding: 1%;
             border: hidden;
             border-radius: 20px;
             background: var(--background);
@@ -43,18 +43,18 @@
         }
 
         img {
-            max-width: 500px;
-            width: 100%;
+            max-width: 400px;
             display: block;
             margin-left: auto;
             margin-right: auto;
             background: var(--background);
+            padding: 20px;
         }
 
         .body {
             margin: auto;
-            width: 50%;
-            max-width: 500px;
+            width: 100%;
+            max-width: 400px;
             padding: 10px;
             background: var(--background);
             color: lightgray;
