@@ -26,8 +26,8 @@
 
 
         #wrapper {
-            width: 50%;
-            min-width: 500px;
+            width: 100%;
+            max-width: 700px;
             padding: 40px;
             border: hidden;
             border-radius: 20px;
@@ -54,7 +54,7 @@
         .body {
             margin: auto;
             width: 50%;
-            min-width: 500px;
+            max-width: 500px;
             padding: 10px;
             background: var(--background);
             color: lightgray;
