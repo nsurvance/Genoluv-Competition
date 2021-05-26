@@ -28,7 +28,7 @@
         #wrapper {
             width: 100%;
             max-width: 600px;
-            padding: 1%;
+            padding-top: 20px;
             border: hidden;
             border-radius: 20px;
             background: var(--background);
@@ -43,8 +43,7 @@
         }
 
         img {
-            max-width: 400px;
-            width: 80%;
+            width: 400px;
             display: block;
             margin-left: auto;
             margin-right: auto;
