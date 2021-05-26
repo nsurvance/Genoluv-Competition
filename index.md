@@ -44,11 +44,11 @@
 
         img {
             max-width: 400px;
+            width: 80%;
             display: block;
             margin-left: auto;
             margin-right: auto;
             background: var(--background);
-            padding: 20px;
         }
 
         .body {
