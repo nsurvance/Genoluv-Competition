@@ -200,9 +200,9 @@
                 </b> Now considering this is the first ever competition, we don’t have an insanely large prize pool
                 to offer but we hope what we do offer is enough to pique your interests!
             </p>
-            <img src="image 2.JPG" alt="Potential Prizes">
 
         </div>
+        <img src="image 2.JPG" alt="Potential Prizes">
 
         <div id="judge" class="body">
             <h1>How Will These be Judged?</h1>
@@ -210,8 +210,9 @@
                 allowed
                 per person. We will also be providing this rubric to help guide voters to making an intelligent
                 judgement.</p>
-            <img src="image3.JPG" alt="Rubric">
+
         </div>
+        <img src="image3.JPG" alt="Rubric">
 
         <div id="rules" class="body">
             <h1>Any Other Rules I Should Know About?</h1>
