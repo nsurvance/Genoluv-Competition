@@ -213,7 +213,7 @@
         <div id="judge" class="body">
             <h1>How Will These be Judged?</h1>
             <p><i>With the power of democracy (Sorta)!</i> The Moderators will judge all the submitted pieces until we
-                have our finalists. There the rest of server has the opputunity to vote on who wins the final prize!
+                have our finalists. Then the rest of server has the opputunity to vote on who wins the final prize!
                 There can only be one vote
                 per person. <br /><br />We will also be providing this rubric to help guide voters (and mods) to making
                 an
@@ -227,11 +227,13 @@
             <h1>Any Other Rules I Should Know About?</h1>
             <p>Yes, actually, and please follow them carefully!</p>
             <ol>
-                <li><b>Submit by The Deadline.</b> Sounds easy enough, doesn’t it? No late work will be accepted.</li>
+                <li><b>Submit by the deadline.</b> Sounds easy enough, doesn’t it? No late work will be accepted.</li>
                 <li><b>Do not post your submissions on the server.</b> We want to avoid people potentially stealing
                     ideas or
                     being discouraged by other people’s works! The mods will showcase them all at the end in a special
                     channel!</li>
+                <li><b>No collaboration!</b> This needs to be fair. One-on-One! Winner takes all! Battle-Royale style!
+                    Collaborators will be disqualified and banned from the next competition.</li>
                 <li><b>The last winner can’t win again!</b> We don’t want chain-winners. So winners from the previous
                     competition can not win again. Feel free to enter though!</li>
                 <li><b>Follow all the rules and requirements!</b> Sounds easy, dunnit?</li>
