@@ -232,7 +232,7 @@
                     competition can not win again. Feel free to enter though!</li>
                 <li><b>Follow all the rules and requirements!</b> Sounds easy, dunnit?</li>
             </ol>
-            <p>That’s everything guys! We hope to see your future works! :)
+            <p>That’s everything guys! We hope to see your future works! :)<br />
                 Please note that any rules are subject to change in the future.
             </p>
 
