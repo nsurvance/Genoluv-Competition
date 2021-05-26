@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Competition Website</title>
+    <title>Genoluv Art Competition Rules</title>
     <style>
         :root {
             --background: #36393F;
@@ -211,9 +211,12 @@
 
         <div id="judge" class="body">
             <h1>How Will These be Judged?</h1>
-            <p><i>With the power of democracy!</i> We’ll be creating a form so people can vote! There is only one entry
-                allowed
-                per person. We will also be providing this rubric to help guide voters to making an intelligent
+            <p><i>With the power of democracy (Sorta)!</i> The Moderators will judge all the submitted pieces until we
+                have our finalists. There the rest of server has the opputunity to vote on who wins the final prize!
+                There can only be one vote
+                per person. <br /><br />We will also be providing this rubric to help guide voters (and mods) to making
+                an
+                intelligent
                 judgement.</p>
 
         </div>
