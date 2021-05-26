@@ -24,6 +24,11 @@
             line-height: 150%;
         }
 
+        html,
+        body {
+            max-width: 100%;
+            overflow-x: hidden;
+        }
 
         #wrapper {
             width: 100%;
