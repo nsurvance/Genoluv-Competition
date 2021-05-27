@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Genoluv Art Competition Rules</title>
+    <link rel="shortcut icon" type="image/jpg" href="/fav.png" />
     <style>
         :root {
             --background: #36393F;
