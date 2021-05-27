@@ -43,6 +43,16 @@
 
         }
 
+        @media(max-width:500px) {
+            #wrapper {
+                margin-top: 0px;
+                margin-bottom: 0px;
+                padding-top: 40px;
+                padding-bottom: 40px;
+                border-radius: 0px;
+            }
+        }
+
         #header {
             background: var(--background);
         }
