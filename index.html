@@ -118,6 +118,11 @@
             width: 170px;
             border-radius: 50%;
             margin-top: 40px;
+            transition: width 2s;
+        }
+
+        #logo:hover {
+            border-radius: 5%;
         }
 
         a {
@@ -244,7 +249,9 @@
                     being discouraged by other people’s works! The mods will showcase them all at the end in a special
                     channel!</li>
                 <li><b>No collaboration!</b> This needs to be fair. One-on-One! Winner takes all! Battle-Royale style!
-                    Collaborators will be disqualified and banned from the next competition.</li>
+                    Collaborators will be disqualified and banned from the next competition.<br /> However, this does no
+                    exclude asking for critique to make sure you have the best possible work! Feel free to DM a mod or
+                    check out our partnered servers for input!</li>
                 <li><b>The last winner can’t win again!</b> We don’t want chain-winners. So winners from the previous
                     competition can not win again. Feel free to enter though!</li>
                 <li><b>Follow all the rules and requirements!</b> Sounds easy, dunnit?</li>
