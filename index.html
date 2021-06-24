@@ -7,6 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Genoluv Art Competition Rules</title>
     <link rel="shortcut icon" type="image/jpg" href="/fav.png" />
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Genoluv Art Competition | Genoluv Official Website">
+    <meta property="og:description" content="What's better then the wild west? The WILD wild west!!">
+    <meta property="og:url" content="https://rules.genoluv.com/">
+    <meta property="og:site_name" content="Genoluv Art">
+    <meta property="og:image"
+        content="https://cdn.discordapp.com/attachments/408391885166608408/846856874737008650/image1.png">
+    <meta property="og:image:width" content="1380">
+    <meta property="og:image:height" content="1380">
     <style>
         :root {
             --background: #36393F;
